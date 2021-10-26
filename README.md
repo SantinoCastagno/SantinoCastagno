@@ -1,6 +1,6 @@
 # Hi there!
 
-My name is Santino Castagno. I'm Computer Science student from Argentina.
+I'm Santino Castagno, a Computer Science student from Argentina.
 
 ## Learning
   - I'm currently learning English be myself.
