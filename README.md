@@ -9,3 +9,5 @@ I'm Santino Castagno, a Computer Science student from Argentina.
   - I've knowledge of web design with HTML and CSS. Also, I have knowledge of web programming trough use of Javascript on ES6. 
   - I'm [Jetpack Compose](https://developer.android.com/jetpack/compose) and [Flutter](https://flutter.dev/) trainee.
   - I'm really interested in [Vue](https://es.vuejs.org/).
+
+[![roadmap.sh](https://roadmap.sh/card/wide/6528703ef43a58c923c1a208?variant=dark)](https://roadmap.sh)
