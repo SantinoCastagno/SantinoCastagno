@@ -10,4 +10,4 @@ I'm Santino Castagno, a Computer Science student from Argentina.
   - I'm [Jetpack Compose](https://developer.android.com/jetpack/compose) and [Flutter](https://flutter.dev/) trainee.
   - I'm really interested in [Vue](https://es.vuejs.org/).
 
-[![roadmap.sh](https://roadmap.sh/card/wide/6528703ef43a58c923c1a208?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/6528703ef43a58c923c1a208?variant=dark&roadmaps=backend%2Cdocker%2Ccyber-security%2Cfrontend)](https://roadmap.sh)
