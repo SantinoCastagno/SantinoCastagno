@@ -1,4 +1,4 @@
-# Hi there, I'm Santino Castagno 👋
+# Hi there, I'm Santino 👋
 
 ## About Me
 
