@@ -9,8 +9,7 @@ I am currently finishing my degree and working as a full-stack web developer. My
 - **Design Patterns & Clean Architecture**: I prioritize building software that is both scalable and maintainable by adhering to design patterns and clean architecture principles.
 
 - **Frontend Development**:
-  - **Vue.js**: My primary framework for building user interfaces.
-  - **Flutter**: Crafting visually engaging mobile applications.
+  - **Vue.js, Flutter**: My primaries frameworks for building user interfaces.
   - **React, jQuery & Jetpack Compose**: I also possess basic knowledge of these technologies
 
 - **Backend Development**:
