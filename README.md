@@ -16,7 +16,7 @@ I am currently finishing my degree and working as a full-stack web developer. My
 
 - **Backend Development**:
   - **Python & Node.js**: These are the tools I've worked with the most for developing robust backend services and APIs.
-  - **Go**: Currently learning Go to develop high-performance servers.}
+  - **Go**: Currently learning Go to develop high-performance servers.
  
 - **Database Management**:
   - **Relational Databases**: Proficient in PostgreSQL.
