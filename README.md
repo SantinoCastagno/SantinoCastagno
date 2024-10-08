@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am currently finishing my degree and working as a full-stack web developer. My journey as a developer has given me the opportunity to gain hands-on experience with both frontend and backend technologies, as well as delve into exciting fields like deep learning.
+I am currently finishing my degree and working as a developer. My journey as a developer has given me the opportunity to gain hands-on experience with both frontend and backend technologies, as well as delve into exciting fields like deep learning.
 
 ### Key Skills
 
