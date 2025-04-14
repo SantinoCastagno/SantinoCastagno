@@ -2,20 +2,20 @@
 
 ## About Me
 
-I am currently finishing my degree and working as a developer. My journey as a developer has given me the opportunity to gain hands-on experience with both frontend and backend technologies, as well as delve into exciting fields like deep learning.
+I'm currently finishing my degree on Computer Science and I have been working as a developer. My journey as a developer has given me the opportunity to gain hands-on experience with both frontend and backend technologies. Plus, a delve into exciting fields like deep learning.
 
 ### Key Skills
 
 - **Design Patterns & Clean Architecture**: I prioritize building software that is both scalable and maintainable by adhering to design patterns and clean architecture principles.
 
-- **Intermediate Linux Knowledge**: As a daily Linux user, I have developed intermediate proficiency in the operating system.
+- **Linux Knowledge**: As a daily Linux user, I have developed intermediate proficiency in the operating system.
 
 - **Frontend Development**:
-  - **Vue.js, Flutter**: My primaries frameworks for building user interfaces.
+  - **Vue.js, Flutter**: My primary frameworks for building user interfaces.
   - **React, jQuery & Jetpack Compose**: I also possess basic knowledge of these technologies
 
 - **Backend Development**:
-  - **Python & Node.js**: These are the tools I've worked with the most for developing robust backend services and APIs.
+  - **Python & Node.js**: These are the tools I have been worked with the most for developing robust backend services and APIs.
   - **Go**: Currently learning Go to develop high-performance servers.
  
 - **Database Management**:
