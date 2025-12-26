@@ -1,38 +1,27 @@
 # Hi there, I'm Santino 👋
 
-## About Me
+AI/ML Engineer passionate about building intelligent systems and production-ready AI applications. Computer Science student at Universidad Nacional del Comahue with fullstack foundations and specialized expertise in RAG systems and conversational AI.
 
-I'm currently finishing my degree on Computer Science and I have been working as a developer. My journey as a developer has given me the opportunity to gain hands-on experience with both frontend and backend technologies. Plus, a delve into exciting fields like deep learning.
+## What I Do
 
-### Key Skills
+I specialize in **Conversational AI, RAG Systems, and LLM Applications**. My background in fullstack development gives me a solid understanding of system architecture, which I apply to build scalable ML solutions and robust backend services.
 
-- **Design Patterns & Clean Architecture**: I prioritize building software that is both scalable and maintainable by adhering to design patterns and clean architecture principles.
+## Tech Stack
 
-- **Linux Knowledge**: As a daily Linux user, I have developed intermediate proficiency in the operating system.
+**AI/ML** — LangChain | RAG Systems | MongoDB Vector Search | LangFuse | Azure Phoenyx (observability)
 
-- **Frontend Development**:
-  - **Vue.js, Flutter**: My primary frameworks for building user interfaces.
-  - **React, jQuery & Jetpack Compose**: I also possess basic knowledge of these technologies
+**Backend** — FastAPI | Python | Node.js | PostgreSQL | MongoDB
 
-- **Backend Development**:
-  - **Python & Node.js**: These are the tools I have been worked with the most for developing robust backend services and APIs.
-  - **Go**: Currently learning Go to develop high-performance servers.
- 
-- **Database Management**:
-  - **Relational Databases**: Proficient in PostgreSQL.
-  - **Non-Relational Databases**: Proficient in MongoDB.
- 
-- **Automation with Shell Scripting**: Automating tasks with shell scripts to optimize workflows and productivity.
+**Frontend** — Vue.js | Flutter | React
 
-- **Deep Learning Enthusiast**: Experience in developing simple perceptrons for classification and convolutional neural networks (CNNs) for more complex applications.
+**DevOps & Tools** — Docker | Linux | Git | Shell Scripting
 
-## What I'm Working On
+## Currently Working On
 
-- Actively working on personal projects to enhance my skills and expertise in full-stack development.
-- Following learning roadmaps on [Roadmap.sh](https://roadmap.sh) to continuously improve and expand my knowledge.
+- Production-grade RAG systems with semantic search and LLM integrations
+- Building observability and monitoring for ML applications
+- Exploring emerging technologies in the AI/ML ecosystem
 
-## Learning Journey
+---
 
-- **English Proficiency**: According to the EFSET, my English proficiency is at [B2](https://cert.efset.org/zkgPh4). However, I consider my actual level to be A2-B1.
-
-Feel free to explore my repositories and projects, and don’t hesitate to reach out for collaboration or discussion!
+Feel free to check out my repositories. Always open to collaboration and interesting technical discussions! 🚀
