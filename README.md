@@ -10,7 +10,7 @@ I specialize in **Conversational AI, RAG Systems, and LLM Applications**. My bac
 
 **AI/ML** — LangChain | RAG Systems | MongoDB Vector Search | LangFuse | Azure Phoenyx (observability)
 
-**Backend** — FastAPI | Python | Node.js | PostgreSQL | MongoDB
+**Backend** — FastAPI | Express.js | PostgreSQL | MongoDB
 
 **Frontend** — Vue.js | Flutter | React
 
