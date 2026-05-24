@@ -1,4 +1,4 @@
-# AI/ML Engineer & Backend Developer
+# AI/ML & Backend Engineer
 
 Computer Science student at Universidad Nacional del Comahue. I build production-grade AI systems and scalable backend services.
 
