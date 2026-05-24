@@ -1,4 +1,4 @@
-# Santino — AI/ML Engineer & Backend Developer
+# AI/ML Engineer & Backend Developer
 
 Computer Science student at Universidad Nacional del Comahue. I build production-grade AI systems and scalable backend services.
 
